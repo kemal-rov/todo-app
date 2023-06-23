@@ -1,0 +1,22 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "This is a passion project where I try to utilize node.js, express.js, mongoDB, vue.js, typescript an various other packages and dependencies in order to create and deploy a simple, dynamic todo web app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kemal Rovcanin",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongodb": "^5.6.0",
+    "mongoose": "^7.3.1",
+    "typescript": "^5.1.3",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
